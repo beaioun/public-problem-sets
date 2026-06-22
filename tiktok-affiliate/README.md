@@ -7,7 +7,7 @@ everything you need to get started. Read this page first, then dive into the ass
 
 ## Start here
 
-1. **Read the assignment:** [`bia_takehome_affiliate_performance.md`](bia_takehome_affiliate_performance.md)
+1. **Read the assignment:** [`tiktok_affiliate_performance.md`](tiktok_affiliate_performance.md)
    — the background, the business question, the six parts of the work, and exactly what to
    submit. **Read it in full before you begin.**
 2. **Read the data dictionary:** [`data_dictionary.md`](data_dictionary.md) — a
@@ -22,9 +22,9 @@ everything you need to get started. Read this page first, then dive into the ass
 
 | Path | What it is |
 |---|---|
-| `bia_takehome_affiliate_performance.md` | The assignment: background, business question, Parts 1–6, and the deliverables. |
+| `tiktok_affiliate_performance.md` | The assignment: background, business question, Parts 1–6, and the deliverables. |
 | `data_dictionary.md` | Plain-language description of every column in the four data files, with the join diagram. |
-| `data/creators.csv` | One row per creator: id, handle, follower count, niche, region, commission rate, join date, status. |
+| `data/creators.csv` | One row per creator: id, handle, follower count, niche, state, commission rate, join date, status. |
 | `data/videos.csv` | One row per video: which creator posted it, post date, views, likes, comments. |
 | `data/orders.csv` | One row per order line: which video/creator drove the order, product, quantity, gross sales, status, commission. |
 | `data/products.csv` | One row per SKU: product name and category. |
