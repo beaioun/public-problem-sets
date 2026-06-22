@@ -7,7 +7,7 @@ everything you need to get started. Read this page first, then dive into the ass
 
 ## Start here
 
-1. **Read the assignment:** [`tiktok_affiliate_performance.md`](tiktok_affiliate_performance.md)
+1. **Read the assignment:** [`tiktok_affiliate_performance.md`](tiktok_affiliate_performance.md) or the assignment could be found under a new issue after released
    — the background, the business question, the six parts of the work, and exactly what to
    submit. **Read it in full before you begin.**
 2. **Read the data dictionary:** [`data_dictionary.md`](data_dictionary.md) — a
