@@ -1,0 +1,5 @@
+# Grader-only artifacts — not shipped to candidates
+grader_rubric.*
+tiktok_affiliate_performance.md
+/reference/
+/tests/
